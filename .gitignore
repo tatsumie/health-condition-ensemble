@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+catboost_info/
+train.csv
+test.csv
+sample_submission.csv
+submission*.csv
+/oof_weight_results.csv
+model-report/node_modules/
+model-report/.next/
+model-report/dist/
+model-report/.wrangler/
